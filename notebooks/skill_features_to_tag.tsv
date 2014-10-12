@@ -1,0 +1,781 @@
+feature	cluster	type	synsets	rough_tag	tag	count	final_tag
+to the selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+develop strong selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+tiffany strategic selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+and strong selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+your expert selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+service and selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+prospective clients selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+creative selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+consultative selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+your selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+valuable selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+expert selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+of creative selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+and utilizes selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+skills use selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+superior selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+utilizing your selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+possess valuable selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+possess superior selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+analytical and selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+the selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+use selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+use of selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+required strong selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+core selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+and consultative selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+and selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+developing personal selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+verbal selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+advanced selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+brand selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+service basic selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+possess advanced selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+exceptional selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+excellent selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+strong selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+utilizing professional selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+utilize consultative selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+benefit selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+or guest selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+use directive selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+use suggestive selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+clients selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+execute strong selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+strategic selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+and advanced selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+utilizes basic selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+strong merchandising skills	25	skills	[Synset('selling.n.01'), Synset('trade.v.01')]	selling.n.01	selling	90	sales
+on selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+initiated selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+with proven selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+exceptional magic selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+transferred into selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+jewelry exceptional selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+personal selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+guest selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+professional selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+strong negotiation marketing skills	25	skills	[Synset('selling.n.01'), Synset('marketing.n.02'), Synset('marketing.n.03'), Synset('market.v.01'), Synset('market.v.02'), Synset('market.v.03'), Synset('commercialize.v.02')]	selling.n.01	selling	90	sales
+develop personal selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+suggestive selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+utilizes selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+relationship selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+customer relationship selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+basic selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+strong persuasive selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+possesses strong selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+directive selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+negotiation marketing skills	25	skills	[Synset('selling.n.01'), Synset('marketing.n.02'), Synset('marketing.n.03'), Synset('market.v.01'), Synset('market.v.02'), Synset('market.v.03'), Synset('commercialize.v.02')]	selling.n.01	selling	90	sales
+into selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+and marketing skills	25	skills	[Synset('selling.n.01'), Synset('marketing.n.02'), Synset('marketing.n.03'), Synset('market.v.01'), Synset('market.v.02'), Synset('market.v.03'), Synset('commercialize.v.02')]	selling.n.01	selling	90	sales
+magic selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+of selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+corporate initiated selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+sales and marketing skills	25	skills	[Synset('selling.n.01'), Synset('marketing.n.02'), Synset('marketing.n.03'), Synset('market.v.01'), Synset('market.v.02'), Synset('market.v.03'), Synset('commercialize.v.02')]	selling.n.01	selling	90	sales
+strong verbal selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+abilities consultative selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+preferred superior selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+preferred selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+presentation selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+proven selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+effective selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+persuasive selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+training on selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+practices effective selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+strong presentation selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+outlet selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+marketing skills	25	skills	[Synset('selling.n.01'), Synset('marketing.n.02'), Synset('marketing.n.03'), Synset('market.v.01'), Synset('market.v.02'), Synset('market.v.03'), Synset('commercialize.v.02')]	selling.n.01	selling	90	sales
+skills benefit selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+on core selling skills	25	skills	[Synset('selling.n.01'), Synset('sell.v.01'), Synset('sell.v.02'), Synset('sell.v.03'), Synset('deal.v.06'), Synset('sell.v.05'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('betray.v.02')]	selling.n.01	selling	90	sales
+center environment interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+too strong interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+skills interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+of interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+leadership and interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+extraordinary interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+follow up interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+issues excellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+team interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+engagement and interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+and effective interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+organizational and interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+your interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+develops team interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+well as interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+your strong interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+preferred outstanding interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+customers excellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+oriented strong interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+as interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+applications exceptional interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+english fluent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+as solid interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+fluent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+with good interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+selling skills interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+have interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+mail interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+grammar effective interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+attributes required interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+and mail interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+quickly excellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+have excellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+in their interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+form interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+environment interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+presentation and interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+required interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+up interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+plus strong interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+their interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+goals extraordinary interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+asset excellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+ged excellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+leverages your interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+confidentiality strong interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+and interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+outstanding interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+skills have interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+experience excellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+value outstanding interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+your excellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+skills excellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+english strong interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+asset solid interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+excellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+preferred excellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+exceptional interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+strong interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+leverages strong interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+initiative strong interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+good interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+building skills interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+knowledge excellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+effective interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+skills superior interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+negotiation and interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+skills and interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+planning and interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+verbal and interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+persuasion and interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+solid interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+superior interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+degree of interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+accuracy excellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+solving skillsexcellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+social and interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+skills strong interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+skillsexcellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+written form interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+impression excellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+written excellent interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+ethic strong interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+utilizes strong interpersonal skills	25	skills	[Synset('interpersonal.s.01')]	interpersonal.s.01	interpersonal	85	interpersonal 
+analytical and organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+manner organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+shift strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+multi tasking organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+great organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+abilities strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+proven organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+closing skills organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+plus organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+with strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+skills summary organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+skills solid organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+terminology plus organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+terrific organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+interpersonal and organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+sources strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+preferred strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+tasking organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+level staff organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+experience excellent organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+planning and organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+plus excellent organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+player strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+software strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+oriented excellent organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+solid organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+staff organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+orientation excellent organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+organisational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+service skills organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+partners strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+presentation organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+good organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+and terrific organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+departments excellent organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+managemnet and organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+maintains good organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+skills excellent organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+focus strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+good organisational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+travel strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+mathematical skills organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+framework organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+and organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+have strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+interpersonal presentation organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+dreamweaver strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+excellent organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+summary organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+ace organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+concise manner organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+international framework organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+skills good organisational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+attitude excellent organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+with organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+average organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+with proven organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+planning organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+above average organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+strong planning organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+dependability strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+possess excellent organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+management and organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+requirements excellent organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+service and organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+sales excellent organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+with good organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+required strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+skills strong organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+skills organizational skills	25	skills	[Synset('organizational.a.01')]	organizational.a.01	organizational	72	organizational  
+territory management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+program management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+skills time management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+database management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+interpersonal and management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+and workflow management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+influence management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+leadership and management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+systems time management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+and client management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+or process management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+strong time management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+task time management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+issues project management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+sales management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+process management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+task excellent management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+and influence management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+project management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+and time management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+client management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+and sales management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+and project management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+good management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+strong project management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+proven project management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+time management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+strong relationship management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+and process management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+and management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+meeting management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+experienced program management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+project and management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+posses good management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+strong client management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+workflow management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+and relationship management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+equivalent project management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+service and sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+consulting and sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+amazing b2b sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+of your sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+developed sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+business sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+drive sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+build sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+effective sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+exceptional sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+the necessary sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+development sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+professional exceptional sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+to drive sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+excellent sales skill	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+necessary sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+skills years sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+including sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+years sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+required sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+superior sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+products including sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+needs based sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+well superior sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+based sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+competitive and sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+profitability integrating sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+utilize effective sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+considered excellent sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+to build sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+to business sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+the sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+put your sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+solid time management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+possess excellent sales skill	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+top performer sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+sales skill	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+possess superior sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+your sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+degree required sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+been developed sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+personality and sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+growing your sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+performer sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+and sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+relationship development sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+b2b sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+retail sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+excellent sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+safety and sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+integrating sales skills	25	skills	[Synset('gross_sales.n.01'), Synset('sale.n.01'), Synset('sale.n.02'), Synset('sale.n.03'), Synset('sale.n.04'), Synset('sale.n.05')]	gross_sales.n.01	gross_sales	51	sales
+effective time management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+business management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+exceptional time management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+excellent project management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+excellent time management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+excellent management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+businesses business management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+relationship management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+analytical and management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+and meeting management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+requires database management skills	25	skills	[Synset('management.n.01'), Synset('management.n.02')]	management.n.01	management	51	management
+and dynamic presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+and presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+and verbal presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+listening presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+driven presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+skills good presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+excellent presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+effective presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+principles excellent presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+superior presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+verbal presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+sales and presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+good presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+sales presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+consultative and presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+face presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+results driven presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+dynamic presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+results strong presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+strong presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+utilize strong presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+selling listening presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+taking presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+risk taking presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+and superior presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+training and presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+acumen sales presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+written and presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+verbal and presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+service and presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+staff effective presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+listening and presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+to face presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+interpersonal and presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+skills strong presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+skills and presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+relationships effective presentation skills	25	skills	[Synset('presentation.n.01'), Synset('presentation.n.02'), Synset('presentation.n.03'), Synset('presentation.n.04'), Synset('display.n.03'), Synset('presentation.n.06'), Synset('presentation.n.07')]	presentation.n.01	presentation	38	presentation
+have strong analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+and analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+sound analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+skills demonstrated analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+strong analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+organizational and analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+extremely strong analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+solving and analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+business operations analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+and qualitative analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+using analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+growth using analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+and analytic skills	25	skills	[Synset('analytic.a.01'), Synset('analytic.a.02'), Synset('analytic.a.03'), Synset('analytic.a.04')]	analytic.a.01	analytic	35	analytic and mathematical
+analytic skills	25	skills	[Synset('analytic.a.01'), Synset('analytic.a.02'), Synset('analytic.a.03'), Synset('analytic.a.04')]	analytic.a.01	analytic	35	analytic and mathematical
+statistical and analytic skills	25	skills	[Synset('analytic.a.01'), Synset('analytic.a.02'), Synset('analytic.a.03'), Synset('analytic.a.04')]	analytic.a.01	analytic	35	analytic and mathematical
+strong analytic skills	25	skills	[Synset('analytic.a.01'), Synset('analytic.a.02'), Synset('analytic.a.03'), Synset('analytic.a.04')]	analytic.a.01	analytic	35	analytic and mathematical
+interpersonal and analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+responsibilities strong analytic skills	25	skills	[Synset('analytic.a.01'), Synset('analytic.a.02'), Synset('analytic.a.03'), Synset('analytic.a.04')]	analytic.a.01	analytic	35	analytic and mathematical
+analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+excellent analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+others strong analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+quantitative and analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+skills analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+planning and analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+management and analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+responsibilities strong analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+operations analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+with sound analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+proven analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+skills expert analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+internally proven analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+with excellent analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+qualitative analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+expert analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+environment strong analytical skills	25	skills	[Synset('analytic.a.02'), Synset('analytic.a.04')]	analytic.a.02	analytic	35	analytic and mathematical
+solid negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+excellent negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+skills strong negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+spirit strong negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+skills negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+selling and negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+vendor negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+supervision strong negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+plan proven negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+skills solid negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+planning skills negotiations skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+solution vendor negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+and solid negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+advanced negotiations skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+presentation and negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+multi tasking negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+service skills negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+analysis and negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+leadership and negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+and advanced negotiations skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+negotiations skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+desired proven negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+skills negotiations skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+preferred excellent negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+proven negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+development and negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+record solid negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+influencing and negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+solving and negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+strong negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+and negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+tasking negotiation skills	25	skills	[Synset('negotiation.n.01'), Synset('negotiation.n.02')]	negotiation.n.01	negotiation	33	negotiation
+professionalism problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+effective problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+response problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+customers problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+problems solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+outstanding problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+mathematical problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+change problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+strong problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+thinking problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+uses problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+stellar problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+excellent problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+analysis problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+personnel problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+analytical problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+and problems solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+skills conflict resolution skills	25	skills	[Synset('resolution.n.01'), Synset('resolving_power.n.01'), Synset('resoluteness.n.01'), Synset('resolution.n.04'), Synset('settlement.n.05'), Synset('resolution.n.06'), Synset('resolution.n.07'), Synset('resolution.n.08'), Synset('resolution.n.09'), Synset('solution.n.02'), Synset('resolution.n.11')]	resolution.n.01	resolution	27	problem solving 
+resolution skills	25	skills	[Synset('resolution.n.01'), Synset('resolving_power.n.01'), Synset('resoluteness.n.01'), Synset('resolution.n.04'), Synset('settlement.n.05'), Synset('resolution.n.06'), Synset('resolution.n.07'), Synset('resolution.n.08'), Synset('resolution.n.09'), Synset('solution.n.02'), Synset('resolution.n.11')]	resolution.n.01	resolution	27	problem solving 
+conflict resolution skills	25	skills	[Synset('resolution.n.01'), Synset('resolving_power.n.01'), Synset('resoluteness.n.01'), Synset('resolution.n.04'), Synset('settlement.n.05'), Synset('resolution.n.06'), Synset('resolution.n.07'), Synset('resolution.n.08'), Synset('resolution.n.09'), Synset('solution.n.02'), Synset('resolution.n.11')]	resolution.n.01	resolution	27	problem solving 
+problem resolution skills	25	skills	[Synset('resolution.n.01'), Synset('resolving_power.n.01'), Synset('resoluteness.n.01'), Synset('resolution.n.04'), Synset('settlement.n.05'), Synset('resolution.n.06'), Synset('resolution.n.07'), Synset('resolution.n.08'), Synset('resolution.n.09'), Synset('solution.n.02'), Synset('resolution.n.11')]	resolution.n.01	resolution	27	problem solving 
+detailed problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+creative problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+independently problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+good problem solving skills	25	skills	[Synset('resolution.n.04'), Synset('solve.v.01'), Synset('resolve.v.06'), Synset('clear.v.19')]	resolution.n.04	resolution	27	problem solving 
+etiquette mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+skills good mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+branch needs mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+of organization mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+good mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+management mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+required basic mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+writing and mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+inquiries etc mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+basic mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+and mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+manuals mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+organization mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+average mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+the organization mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+needs mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+etc mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+skills mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+above average mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+desirable basic mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+procedure manuals mathematical skills	25	skills	[Synset('mathematical.a.01'), Synset('numerical.a.03'), Synset('mathematical.s.03'), Synset('mathematical.s.04'), Synset('mathematical.s.05')]	mathematical.a.01	mathematical	22	analytic and mathematical
+personality great listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+discipline practice listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+strong listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+written and listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+your listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+and attentive listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+exceptional listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+great listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+have excellent listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+skills listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+and listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+active listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+excellent active listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+skills strong listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+excellent listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+ethic exceptional listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+attentive listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+strong active listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+practice listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+with your listening skills	25	skills	[Synset('listening.n.01'), Synset('listen.v.01'), Synset('listen.v.02'), Synset('heed.v.01')]	listening.n.01	listening	21	communication 
+have basic math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+mathematics skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+basic math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+intermediate business math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+with good mathematics skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+skills basic math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+good math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+general math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+etc basic math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+aptitude math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+high aptitude math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+retail math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+good general math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+good mathematics skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+strong retail math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+dependability general math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+possess good math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+business math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+math skills	25	skills	[Synset('mathematics.n.01')]	mathematics.n.01	mathematics	19	analytic and mathematical
+intermediate pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+management skills pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+measure basic pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+equivalent intermediate pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+essential functions pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+completion strong pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+strong pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+basic pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+skills strong pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+advanced pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+skills pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+good pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+experience strong pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+to advanced pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+functions pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+analytical skills pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+ability strong pc skills	25	skills	[Synset('personal_computer.n.01')]	personal_computer.n.01	personal_computer	18	computers
+in fragrances language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+her technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+general technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+business and technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+strong technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+excel administrative technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+and technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+advanced technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+other language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+additional language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+proficiency second language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+fragrances language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+necessary language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+are necessary language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+times proficient technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+english additional language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+written language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+products strong technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+administrative technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+or her technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+second language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+preferred language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+base language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+is required language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+player other language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+markets strong technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+analytical and technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+proficient technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+additional general technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+required language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+writing and technical skills	25	skills	[Synset('technical.n.01'), Synset('technical_foul.n.01'), Synset('technical.a.01'), Synset('technical.a.02'), Synset('technical.a.03'), Synset('technical.s.04'), Synset('technical.s.05')]	technical.n.01	technical	17	technical 
+and written language skills	25	skills	[Synset('language.n.01'), Synset('speech.n.02'), Synset('lyric.n.01'), Synset('linguistic_process.n.02'), Synset('language.n.05'), Synset('terminology.n.01')]	language.n.01	language	17	language 
+good organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+skills organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+strong organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+skills good organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+making and leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+numbers strong organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+independently strong organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+training leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+workday expert leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+organizational and leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+have exceptional leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+and leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+sales training leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+service and leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+proven leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+interpersonal and leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+administrative and leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+of the organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+exceptional leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+preferred proven leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+expert leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+skills demonstrated leadership skills	25	skills	[Synset('leadership.n.01'), Synset('leadership.n.02'), Synset('leadership.n.03'), Synset('leadership.n.04')]	leadership.n.01	leadership	16	leadership 
+is crucial organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+assessment good organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+and organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+planning and organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+management skills organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+crucial organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+detail and organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+the organization skills	25	skills	[Synset('organization.n.01'), Synset('arrangement.n.03'), Synset('administration.n.02'), Synset('organization.n.04'), Synset('organization.n.05'), Synset('organization.n.06'), Synset('constitution.n.02')]	organization.n.01	organization	16	organizational 
+excellent people skills	25	skills	[Synset('people.n.01'), Synset('citizenry.n.01'), Synset('people.n.03'), Synset('multitude.n.03'), Synset('people.v.01'), Synset('people.v.02')]	people.n.01	people	14	communication 
+great people skills	25	skills	[Synset('people.n.01'), Synset('citizenry.n.01'), Synset('people.n.03'), Synset('multitude.n.03'), Synset('people.v.01'), Synset('people.v.02')]	people.n.01	people	14	communication 
+skills strong people skills	25	skills	[Synset('people.n.01'), Synset('citizenry.n.01'), Synset('people.n.03'), Synset('multitude.n.03'), Synset('people.v.01'), Synset('people.v.02')]	people.n.01	people	14	communication 
+people skills	25	skills	[Synset('people.n.01'), Synset('citizenry.n.01'), Synset('people.n.03'), Synset('multitude.n.03'), Synset('people.v.01'), Synset('people.v.02')]	people.n.01	people	14	communication 
+unparalleled people skills	25	skills	[Synset('people.n.01'), Synset('citizenry.n.01'), Synset('people.n.03'), Synset('multitude.n.03'), Synset('people.v.01'), Synset('people.v.02')]	people.n.01	people	14	communication 
+possess people skills	25	skills	[Synset('people.n.01'), Synset('citizenry.n.01'), Synset('people.n.03'), Synset('multitude.n.03'), Synset('people.v.01'), Synset('people.v.02')]	people.n.01	people	14	communication 
+must possess people skills	25	skills	[Synset('people.n.01'), Synset('citizenry.n.01'), Synset('people.n.03'), Synset('multitude.n.03'), Synset('people.v.01'), Synset('people.v.02')]	people.n.01	people	14	communication 
+relationships people skills	25	skills	[Synset('people.n.01'), Synset('citizenry.n.01'), Synset('people.n.03'), Synset('multitude.n.03'), Synset('people.v.01'), Synset('people.v.02')]	people.n.01	people	14	communication 
+client relationships people skills	25	skills	[Synset('people.n.01'), Synset('citizenry.n.01'), Synset('people.n.03'), Synset('multitude.n.03'), Synset('people.v.01'), Synset('people.v.02')]	people.n.01	people	14	communication 
+have unparalleled people skills	25	skills	[Synset('people.n.01'), Synset('citizenry.n.01'), Synset('people.n.03'), Synset('multitude.n.03'), Synset('people.v.01'), Synset('people.v.02')]	people.n.01	people	14	communication 
+have great people skills	25	skills	[Synset('people.n.01'), Synset('citizenry.n.01'), Synset('people.n.03'), Synset('multitude.n.03'), Synset('people.v.01'), Synset('people.v.02')]	people.n.01	people	14	communication 
+and people skills	25	skills	[Synset('people.n.01'), Synset('citizenry.n.01'), Synset('people.n.03'), Synset('multitude.n.03'), Synset('people.v.01'), Synset('people.v.02')]	people.n.01	people	14	communication 
+display excellent people skills	25	skills	[Synset('people.n.01'), Synset('citizenry.n.01'), Synset('people.n.03'), Synset('multitude.n.03'), Synset('people.v.01'), Synset('people.v.02')]	people.n.01	people	14	communication 
+strong people skills	25	skills	[Synset('people.n.01'), Synset('citizenry.n.01'), Synset('people.n.03'), Synset('multitude.n.03'), Synset('people.v.01'), Synset('people.v.02')]	people.n.01	people	14	communication 
+excel skills	25	skills	[Synset('excel.v.01')]	excel.v.01	excel	11	computers
+good team skills	25	skills	[Synset('team.n.01'), Synset('team.n.02'), Synset('team.v.01')]	team.n.01	team	11	team work
+management skills team skills	25	skills	[Synset('team.n.01'), Synset('team.n.02'), Synset('team.v.01')]	team.n.01	team	11	team work
+enhance team skill	25	skills	[Synset('team.n.01'), Synset('team.n.02'), Synset('team.v.01')]	team.n.01	team	11	team work
+team skills	25	skills	[Synset('team.n.01'), Synset('team.n.02'), Synset('team.v.01')]	team.n.01	team	11	team work
+class excel skills	25	skills	[Synset('excel.v.01')]	excel.v.01	excel	11	computers
+superior microsoft excel skills	25	skills	[Synset('excel.v.01')]	excel.v.01	excel	11	computers
+check microsoft excel skills	25	skills	[Synset('excel.v.01')]	excel.v.01	excel	11	computers
+analytics advanced excel skills	25	skills	[Synset('excel.v.01')]	excel.v.01	excel	11	computers
+world class excel skills	25	skills	[Synset('excel.v.01')]	excel.v.01	excel	11	computers
+strong excel skills	25	skills	[Synset('excel.v.01')]	excel.v.01	excel	11	computers
+problems team skills	25	skills	[Synset('team.n.01'), Synset('team.n.02'), Synset('team.v.01')]	team.n.01	team	11	team work
+statements strong excel skills	25	skills	[Synset('excel.v.01')]	excel.v.01	excel	11	computers
+advanced excel skills	25	skills	[Synset('excel.v.01')]	excel.v.01	excel	11	computers
+including strong excel skills	25	skills	[Synset('excel.v.01')]	excel.v.01	excel	11	computers
+microsoft excel skills	25	skills	[Synset('excel.v.01')]	excel.v.01	excel	11	computers
+business problems team skills	25	skills	[Synset('team.n.01'), Synset('team.n.02'), Synset('team.v.01')]	team.n.01	team	11	team work
+helpful good team skills	25	skills	[Synset('team.n.01'), Synset('team.n.02'), Synset('team.v.01')]	team.n.01	team	11	team work
+skills team skills	25	skills	[Synset('team.n.01'), Synset('team.n.02'), Synset('team.v.01')]	team.n.01	team	11	team work
+processing good team skills	25	skills	[Synset('team.n.01'), Synset('team.n.02'), Synset('team.v.01')]	team.n.01	team	11	team work
+team skill	25	skills	[Synset('team.n.01'), Synset('team.n.02'), Synset('team.v.01')]	team.n.01	team	11	team work
+to enhance team skill	25	skills	[Synset('team.n.01'), Synset('team.n.02'), Synset('team.v.01')]	team.n.01	team	11	team work
+excellent selling service skills	25	skills	[Synset('service.n.01'), Synset('service.n.02'), Synset('service.n.03'), Synset('service.n.04'), Synset('service.n.05'), Synset('military_service.n.01'), Synset('service.n.07'), Synset('avail.n.01'), Synset('service.n.09'), Synset('servicing.n.01'), Synset('service.n.11'), Synset('serve.n.01'), Synset('service.n.13'), Synset('overhaul.n.01'), Synset('service.n.15'), Synset('service.v.01'), Synset('service.v.02'), Synset('serve.v.14')]	service.n.01	service	10	customer service
+and service skills	25	skills	[Synset('service.n.01'), Synset('service.n.02'), Synset('service.n.03'), Synset('service.n.04'), Synset('service.n.05'), Synset('military_service.n.01'), Synset('service.n.07'), Synset('avail.n.01'), Synset('service.n.09'), Synset('servicing.n.01'), Synset('service.n.11'), Synset('serve.n.01'), Synset('service.n.13'), Synset('overhaul.n.01'), Synset('service.n.15'), Synset('service.v.01'), Synset('service.v.02'), Synset('serve.v.14')]	service.n.01	service	10	customer service
+guest service skills	25	skills	[Synset('service.n.01'), Synset('service.n.02'), Synset('service.n.03'), Synset('service.n.04'), Synset('service.n.05'), Synset('military_service.n.01'), Synset('service.n.07'), Synset('avail.n.01'), Synset('service.n.09'), Synset('servicing.n.01'), Synset('service.n.11'), Synset('serve.n.01'), Synset('service.n.13'), Synset('overhaul.n.01'), Synset('service.n.15'), Synset('service.v.01'), Synset('service.v.02'), Synset('serve.v.14')]	service.n.01	service	10	customer service
+combine strong service skills	25	skills	[Synset('service.n.01'), Synset('service.n.02'), Synset('service.n.03'), Synset('service.n.04'), Synset('service.n.05'), Synset('military_service.n.01'), Synset('service.n.07'), Synset('avail.n.01'), Synset('service.n.09'), Synset('servicing.n.01'), Synset('service.n.11'), Synset('serve.n.01'), Synset('service.n.13'), Synset('overhaul.n.01'), Synset('service.n.15'), Synset('service.v.01'), Synset('service.v.02'), Synset('serve.v.14')]	service.n.01	service	10	customer service
+selling service skills	25	skills	[Synset('service.n.01'), Synset('service.n.02'), Synset('service.n.03'), Synset('service.n.04'), Synset('service.n.05'), Synset('military_service.n.01'), Synset('service.n.07'), Synset('avail.n.01'), Synset('service.n.09'), Synset('servicing.n.01'), Synset('service.n.11'), Synset('serve.n.01'), Synset('service.n.13'), Synset('overhaul.n.01'), Synset('service.n.15'), Synset('service.v.01'), Synset('service.v.02'), Synset('serve.v.14')]	service.n.01	service	10	customer service
+strong guest service skills	25	skills	[Synset('service.n.01'), Synset('service.n.02'), Synset('service.n.03'), Synset('service.n.04'), Synset('service.n.05'), Synset('military_service.n.01'), Synset('service.n.07'), Synset('avail.n.01'), Synset('service.n.09'), Synset('servicing.n.01'), Synset('service.n.11'), Synset('serve.n.01'), Synset('service.n.13'), Synset('overhaul.n.01'), Synset('service.n.15'), Synset('service.v.01'), Synset('service.v.02'), Synset('serve.v.14')]	service.n.01	service	10	customer service
+service skills	25	skills	[Synset('service.n.01'), Synset('service.n.02'), Synset('service.n.03'), Synset('service.n.04'), Synset('service.n.05'), Synset('military_service.n.01'), Synset('service.n.07'), Synset('avail.n.01'), Synset('service.n.09'), Synset('servicing.n.01'), Synset('service.n.11'), Synset('serve.n.01'), Synset('service.n.13'), Synset('overhaul.n.01'), Synset('service.n.15'), Synset('service.v.01'), Synset('service.v.02'), Synset('serve.v.14')]	service.n.01	service	10	customer service
+skills customer service skills	25	skills	[Synset('service.n.01'), Synset('service.n.02'), Synset('service.n.03'), Synset('service.n.04'), Synset('service.n.05'), Synset('military_service.n.01'), Synset('service.n.07'), Synset('avail.n.01'), Synset('service.n.09'), Synset('servicing.n.01'), Synset('service.n.11'), Synset('serve.n.01'), Synset('service.n.13'), Synset('overhaul.n.01'), Synset('service.n.15'), Synset('service.v.01'), Synset('service.v.02'), Synset('serve.v.14')]	service.n.01	service	10	customer service
+strong service skills	25	skills	[Synset('service.n.01'), Synset('service.n.02'), Synset('service.n.03'), Synset('service.n.04'), Synset('service.n.05'), Synset('military_service.n.01'), Synset('service.n.07'), Synset('avail.n.01'), Synset('service.n.09'), Synset('servicing.n.01'), Synset('service.n.11'), Synset('serve.n.01'), Synset('service.n.13'), Synset('overhaul.n.01'), Synset('service.n.15'), Synset('service.v.01'), Synset('service.v.02'), Synset('serve.v.14')]	service.n.01	service	10	customer service
+and writing skills	25	skills	[Synset('writing.n.01'), Synset('writing.n.02'), Synset('writing.n.03'), Synset('writing.n.04'), Synset('writing.n.05'), Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10')]	writing.n.01	writing	10	communication 
+sales and service skills	25	skills	[Synset('service.n.01'), Synset('service.n.02'), Synset('service.n.03'), Synset('service.n.04'), Synset('service.n.05'), Synset('military_service.n.01'), Synset('service.n.07'), Synset('avail.n.01'), Synset('service.n.09'), Synset('servicing.n.01'), Synset('service.n.11'), Synset('serve.n.01'), Synset('service.n.13'), Synset('overhaul.n.01'), Synset('service.n.15'), Synset('service.v.01'), Synset('service.v.02'), Synset('serve.v.14')]	service.n.01	service	10	customer service
+writing skills	25	skills	[Synset('writing.n.01'), Synset('writing.n.02'), Synset('writing.n.03'), Synset('writing.n.04'), Synset('writing.n.05'), Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10')]	writing.n.01	writing	10	communication 
+exhibits strong writing skills	25	skills	[Synset('writing.n.01'), Synset('writing.n.02'), Synset('writing.n.03'), Synset('writing.n.04'), Synset('writing.n.05'), Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10')]	writing.n.01	writing	10	communication 
+excel word writing skills	25	skills	[Synset('writing.n.01'), Synset('writing.n.02'), Synset('writing.n.03'), Synset('writing.n.04'), Synset('writing.n.05'), Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10')]	writing.n.01	writing	10	communication 
+desirable excellent writing skills	25	skills	[Synset('writing.n.01'), Synset('writing.n.02'), Synset('writing.n.03'), Synset('writing.n.04'), Synset('writing.n.05'), Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10')]	writing.n.01	writing	10	communication 
+business writing skills	25	skills	[Synset('writing.n.01'), Synset('writing.n.02'), Synset('writing.n.03'), Synset('writing.n.04'), Synset('writing.n.05'), Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10')]	writing.n.01	writing	10	communication 
+word writing skills	25	skills	[Synset('writing.n.01'), Synset('writing.n.02'), Synset('writing.n.03'), Synset('writing.n.04'), Synset('writing.n.05'), Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10')]	writing.n.01	writing	10	communication 
+and business writing skills	25	skills	[Synset('writing.n.01'), Synset('writing.n.02'), Synset('writing.n.03'), Synset('writing.n.04'), Synset('writing.n.05'), Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10')]	writing.n.01	writing	10	communication 
+strong writing skills	25	skills	[Synset('writing.n.01'), Synset('writing.n.02'), Synset('writing.n.03'), Synset('writing.n.04'), Synset('writing.n.05'), Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10')]	writing.n.01	writing	10	communication 
+excellent writing skills	25	skills	[Synset('writing.n.01'), Synset('writing.n.02'), Synset('writing.n.03'), Synset('writing.n.04'), Synset('writing.n.05'), Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10')]	writing.n.01	writing	10	communication 
+have exemplary prospecting skills	25	skills	[Synset('prospect.v.01'), Synset('prospect.v.02')]	prospect.v.01	prospect	9	prospecting
+strong telephone skills	25	skills	[Synset('telephone.n.01'), Synset('telephone.n.02'), Synset('call.v.03')]	telephone.n.01	telephone	9	communication 
+exemplary prospecting skills	25	skills	[Synset('prospect.v.01'), Synset('prospect.v.02')]	prospect.v.01	prospect	9	prospecting
+job accomplishments prospecting skills	25	skills	[Synset('prospect.v.01'), Synset('prospect.v.02')]	prospect.v.01	prospect	9	prospecting
+skills qualifications prospecting skills	25	skills	[Synset('prospect.v.01'), Synset('prospect.v.02')]	prospect.v.01	prospect	9	prospecting
+selling prospecting skills	25	skills	[Synset('prospect.v.01'), Synset('prospect.v.02')]	prospect.v.01	prospect	9	prospecting
+prospecting skills	25	skills	[Synset('prospect.v.01'), Synset('prospect.v.02')]	prospect.v.01	prospect	9	prospecting
+strong phone skills	25	skills	[Synset('telephone.n.01'), Synset('phone.n.02'), Synset('earphone.n.01'), Synset('call.v.03')]	telephone.n.01	telephone	9	communication 
+phone skills	25	skills	[Synset('telephone.n.01'), Synset('phone.n.02'), Synset('earphone.n.01'), Synset('call.v.03')]	telephone.n.01	telephone	9	communication 
+tasks excellent telephone skills	25	skills	[Synset('telephone.n.01'), Synset('telephone.n.02'), Synset('call.v.03')]	telephone.n.01	telephone	9	communication 
+competent telephone skills	25	skills	[Synset('telephone.n.01'), Synset('telephone.n.02'), Synset('call.v.03')]	telephone.n.01	telephone	9	communication 
+have competent telephone skills	25	skills	[Synset('telephone.n.01'), Synset('telephone.n.02'), Synset('call.v.03')]	telephone.n.01	telephone	9	communication 
+excellent telephone skills	25	skills	[Synset('telephone.n.01'), Synset('telephone.n.02'), Synset('call.v.03')]	telephone.n.01	telephone	9	communication 
+appreciated strong telephone skills	25	skills	[Synset('telephone.n.01'), Synset('telephone.n.02'), Synset('call.v.03')]	telephone.n.01	telephone	9	communication 
+telephone skills	25	skills	[Synset('telephone.n.01'), Synset('telephone.n.02'), Synset('call.v.03')]	telephone.n.01	telephone	9	communication 
+improves selling prospecting skills	25	skills	[Synset('prospect.v.01'), Synset('prospect.v.02')]	prospect.v.01	prospect	9	prospecting
+qualifications prospecting skills	25	skills	[Synset('prospect.v.01'), Synset('prospect.v.02')]	prospect.v.01	prospect	9	prospecting
+accomplishments prospecting skills	25	skills	[Synset('prospect.v.01'), Synset('prospect.v.02')]	prospect.v.01	prospect	9	prospecting
+strategic project manager skills	25	skills	[Synset('director.n.01'), Synset('coach.n.01')]	director.n.01	director	7	management
+sales manager skills	25	skills	[Synset('director.n.01'), Synset('coach.n.01')]	director.n.01	director	7	management
+oral and written skills	25	skills	[Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10'), Synset('written.a.01'), Synset('written.a.02'), Synset('scripted.a.01')]	write.v.01	write	7	communication 
+written skills	25	skills	[Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10'), Synset('written.a.01'), Synset('written.a.02'), Synset('scripted.a.01')]	write.v.01	write	7	communication 
+access excellent written skills	25	skills	[Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10'), Synset('written.a.01'), Synset('written.a.02'), Synset('scripted.a.01')]	write.v.01	write	7	communication 
+excellent written skills	25	skills	[Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10'), Synset('written.a.01'), Synset('written.a.02'), Synset('scripted.a.01')]	write.v.01	write	7	communication 
+presentation and written skills	25	skills	[Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10'), Synset('written.a.01'), Synset('written.a.02'), Synset('scripted.a.01')]	write.v.01	write	7	communication 
+and written skills	25	skills	[Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10'), Synset('written.a.01'), Synset('written.a.02'), Synset('scripted.a.01')]	write.v.01	write	7	communication 
+verbal and written skills	25	skills	[Synset('write.v.01'), Synset('write.v.02'), Synset('publish.v.03'), Synset('write.v.04'), Synset('write.v.05'), Synset('compose.v.02'), Synset('write.v.07'), Synset('write.v.08'), Synset('spell.v.03'), Synset('write.v.10'), Synset('written.a.01'), Synset('written.a.02'), Synset('scripted.a.01')]	write.v.01	write	7	communication 
+manager skills	25	skills	[Synset('director.n.01'), Synset('coach.n.01')]	director.n.01	director	7	management
+proven sales manager skills	25	skills	[Synset('director.n.01'), Synset('coach.n.01')]	director.n.01	director	7	management
+by any manager skills	25	skills	[Synset('director.n.01'), Synset('coach.n.01')]	director.n.01	director	7	management
+and closing skills	25	skills	[Synset('shutting.n.01'), Synset('conclusion.n.08'), Synset('closing.n.03'), Synset('closure.n.07'), Synset('completion.n.02'), Synset('close.v.01'), Synset('close.v.02'), Synset('close_up.v.01'), Synset('close.v.04'), Synset('conclude.v.04'), Synset('close.v.06'), Synset('close.v.07'), Synset('close.v.08'), Synset('close.v.09'), Synset('close.v.10'), Synset('close.v.11'), Synset('close.v.12'), Synset('close.v.13'), Synset('close.v.14'), Synset('close.v.15'), Synset('close_up.v.03'), Synset('close.v.17'), Synset('closing.a.01')]	shutting.n.01	shutting	7	negotiation
+closing skills	25	skills	[Synset('shutting.n.01'), Synset('conclusion.n.08'), Synset('closing.n.03'), Synset('closure.n.07'), Synset('completion.n.02'), Synset('close.v.01'), Synset('close.v.02'), Synset('close_up.v.01'), Synset('close.v.04'), Synset('conclude.v.04'), Synset('close.v.06'), Synset('close.v.07'), Synset('close.v.08'), Synset('close.v.09'), Synset('close.v.10'), Synset('close.v.11'), Synset('close.v.12'), Synset('close.v.13'), Synset('close.v.14'), Synset('close.v.15'), Synset('close_up.v.03'), Synset('close.v.17'), Synset('closing.a.01')]	shutting.n.01	shutting	7	negotiation
+up and closing skills	25	skills	[Synset('shutting.n.01'), Synset('conclusion.n.08'), Synset('closing.n.03'), Synset('closure.n.07'), Synset('completion.n.02'), Synset('close.v.01'), Synset('close.v.02'), Synset('close_up.v.01'), Synset('close.v.04'), Synset('conclude.v.04'), Synset('close.v.06'), Synset('close.v.07'), Synset('close.v.08'), Synset('close.v.09'), Synset('close.v.10'), Synset('close.v.11'), Synset('close.v.12'), Synset('close.v.13'), Synset('close.v.14'), Synset('close.v.15'), Synset('close_up.v.03'), Synset('close.v.17'), Synset('closing.a.01')]	shutting.n.01	shutting	7	negotiation
+project manager skills	25	skills	[Synset('director.n.01'), Synset('coach.n.01')]	director.n.01	director	7	management
+any manager skills	25	skills	[Synset('director.n.01'), Synset('coach.n.01')]	director.n.01	director	7	management
+sales and closing skills	25	skills	[Synset('shutting.n.01'), Synset('conclusion.n.08'), Synset('closing.n.03'), Synset('closure.n.07'), Synset('completion.n.02'), Synset('close.v.01'), Synset('close.v.02'), Synset('close_up.v.01'), Synset('close.v.04'), Synset('conclude.v.04'), Synset('close.v.06'), Synset('close.v.07'), Synset('close.v.08'), Synset('close.v.09'), Synset('close.v.10'), Synset('close.v.11'), Synset('close.v.12'), Synset('close.v.13'), Synset('close.v.14'), Synset('close.v.15'), Synset('close_up.v.03'), Synset('close.v.17'), Synset('closing.a.01')]	shutting.n.01	shutting	7	negotiation
+strong closing skills	25	skills	[Synset('shutting.n.01'), Synset('conclusion.n.08'), Synset('closing.n.03'), Synset('closure.n.07'), Synset('completion.n.02'), Synset('close.v.01'), Synset('close.v.02'), Synset('close_up.v.01'), Synset('close.v.04'), Synset('conclude.v.04'), Synset('close.v.06'), Synset('close.v.07'), Synset('close.v.08'), Synset('close.v.09'), Synset('close.v.10'), Synset('close.v.11'), Synset('close.v.12'), Synset('close.v.13'), Synset('close.v.14'), Synset('close.v.15'), Synset('close_up.v.03'), Synset('close.v.17'), Synset('closing.a.01')]	shutting.n.01	shutting	7	negotiation
+negotiation and closing skills	25	skills	[Synset('shutting.n.01'), Synset('conclusion.n.08'), Synset('closing.n.03'), Synset('closure.n.07'), Synset('completion.n.02'), Synset('close.v.01'), Synset('close.v.02'), Synset('close_up.v.01'), Synset('close.v.04'), Synset('conclude.v.04'), Synset('close.v.06'), Synset('close.v.07'), Synset('close.v.08'), Synset('close.v.09'), Synset('close.v.10'), Synset('close.v.11'), Synset('close.v.12'), Synset('close.v.13'), Synset('close.v.14'), Synset('close.v.15'), Synset('close_up.v.03'), Synset('close.v.17'), Synset('closing.a.01')]	shutting.n.01	shutting	7	negotiation
+ethic strong closing skills	25	skills	[Synset('shutting.n.01'), Synset('conclusion.n.08'), Synset('closing.n.03'), Synset('closure.n.07'), Synset('completion.n.02'), Synset('close.v.01'), Synset('close.v.02'), Synset('close_up.v.01'), Synset('close.v.04'), Synset('conclude.v.04'), Synset('close.v.06'), Synset('close.v.07'), Synset('close.v.08'), Synset('close.v.09'), Synset('close.v.10'), Synset('close.v.11'), Synset('close.v.12'), Synset('close.v.13'), Synset('close.v.14'), Synset('close.v.15'), Synset('close_up.v.03'), Synset('close.v.17'), Synset('closing.a.01')]	shutting.n.01	shutting	7	negotiation
+prospecting and networking skills	25	skills	[Synset('network.v.01')]	network.v.01	network	6	networking
+networking skills	25	skills	[Synset('network.v.01')]	network.v.01	network	6	networking
+and business networking skills	25	skills	[Synset('network.v.01')]	network.v.01	network	6	networking
+leadership and networking skills	25	skills	[Synset('network.v.01')]	network.v.01	network	6	networking
+utilizing bilingual skills	25	skills	[Synset('bilingual.n.01'), Synset('bilingual.s.01')]	bilingual.n.01	bilingual	6	language
+bilingual skills	25	skills	[Synset('bilingual.n.01'), Synset('bilingual.s.01')]	bilingual.n.01	bilingual	6	language
+procedure utilizing bilingual skills	25	skills	[Synset('bilingual.n.01'), Synset('bilingual.s.01')]	bilingual.n.01	bilingual	6	language
+and networking skills	25	skills	[Synset('network.v.01')]	network.v.01	network	6	networking
+systems bilingual skills	25	skills	[Synset('bilingual.n.01'), Synset('bilingual.s.01')]	bilingual.n.01	bilingual	6	language
+business networking skills	25	skills	[Synset('network.v.01')]	network.v.01	network	6	networking
+needs utilizing bilingual skills	25	skills	[Synset('bilingual.n.01'), Synset('bilingual.s.01')]	bilingual.n.01	bilingual	6	language
+dispensing systems bilingual skills	25	skills	[Synset('bilingual.n.01'), Synset('bilingual.s.01')]	bilingual.n.01	bilingual	6	language
+written and verbal skills	25	skills	[Synset('verbal.s.01'), Synset('verbal.a.02'), Synset('verbal.a.03'), Synset('verbal.a.04'), Synset('verbal.s.05'), Synset('verbal.s.06')]	verbal.s.01	verbal	6	communication 
+phone written verbal skills	25	skills	[Synset('verbal.s.01'), Synset('verbal.a.02'), Synset('verbal.a.03'), Synset('verbal.a.04'), Synset('verbal.s.05'), Synset('verbal.s.06')]	verbal.s.01	verbal	6	communication 
+promotion assortment planning skills	25	skills	[Synset('planning.n.01'), Synset('planning.n.02'), Synset('planning.n.03'), Synset('plan.v.01'), Synset('plan.v.02'), Synset('plan.v.03'), Synset('design.v.04')]	planning.n.01	planning	6	organizational 
+and verbal skills	25	skills	[Synset('verbal.s.01'), Synset('verbal.a.02'), Synset('verbal.a.03'), Synset('verbal.a.04'), Synset('verbal.s.05'), Synset('verbal.s.06')]	verbal.s.01	verbal	6	communication 
+verbal skills	25	skills	[Synset('verbal.s.01'), Synset('verbal.a.02'), Synset('verbal.a.03'), Synset('verbal.a.04'), Synset('verbal.s.05'), Synset('verbal.s.06')]	verbal.s.01	verbal	6	communication 
+written verbal skills	25	skills	[Synset('verbal.s.01'), Synset('verbal.a.02'), Synset('verbal.a.03'), Synset('verbal.a.04'), Synset('verbal.s.05'), Synset('verbal.s.06')]	verbal.s.01	verbal	6	communication 
+presentation and verbal skills	25	skills	[Synset('verbal.s.01'), Synset('verbal.a.02'), Synset('verbal.a.03'), Synset('verbal.a.04'), Synset('verbal.s.05'), Synset('verbal.s.06')]	verbal.s.01	verbal	6	communication 
+assortment planning skills	25	skills	[Synset('planning.n.01'), Synset('planning.n.02'), Synset('planning.n.03'), Synset('plan.v.01'), Synset('plan.v.02'), Synset('plan.v.03'), Synset('design.v.04')]	planning.n.01	planning	6	organizational 
+and planning skills	25	skills	[Synset('planning.n.01'), Synset('planning.n.02'), Synset('planning.n.03'), Synset('plan.v.01'), Synset('plan.v.02'), Synset('plan.v.03'), Synset('design.v.04')]	planning.n.01	planning	6	organizational 
+organisation and planning skills	25	skills	[Synset('planning.n.01'), Synset('planning.n.02'), Synset('planning.n.03'), Synset('plan.v.01'), Synset('plan.v.02'), Synset('plan.v.03'), Synset('design.v.04')]	planning.n.01	planning	6	organizational 
+planning skills	25	skills	[Synset('planning.n.01'), Synset('planning.n.02'), Synset('planning.n.03'), Synset('plan.v.01'), Synset('plan.v.02'), Synset('plan.v.03'), Synset('design.v.04')]	planning.n.01	planning	6	organizational 
+buying and planning skills	25	skills	[Synset('planning.n.01'), Synset('planning.n.02'), Synset('planning.n.03'), Synset('plan.v.01'), Synset('plan.v.02'), Synset('plan.v.03'), Synset('design.v.04')]	planning.n.01	planning	6	organizational 
+strong collaboration skills	25	skills	[Synset('collaboration.n.01'), Synset('collaboration.n.02')]	collaboration.n.01	collaboration	6	team work
+teamwork and collaboration skills	25	skills	[Synset('collaboration.n.01'), Synset('collaboration.n.02')]	collaboration.n.01	collaboration	6	team work
+team and collaboration skills	25	skills	[Synset('collaboration.n.01'), Synset('collaboration.n.02')]	collaboration.n.01	collaboration	6	team work
+collaboration skills	25	skills	[Synset('collaboration.n.01'), Synset('collaboration.n.02')]	collaboration.n.01	collaboration	6	team work
+and collaboration skills	25	skills	[Synset('collaboration.n.01'), Synset('collaboration.n.02')]	collaboration.n.01	collaboration	6	team work
+making strong collaboration skills	25	skills	[Synset('collaboration.n.01'), Synset('collaboration.n.02')]	collaboration.n.01	collaboration	6	team work
+in person presentational skills	25	skills	[Synset('presentational.a.01')]	presentational.a.01	presentational	3	presentation
+through effective salesmanship skills	25	skills	[Synset('salesmanship.n.01')]	salesmanship.n.01	salesmanship	3	sales
+salesmanship skills	25	skills	[Synset('salesmanship.n.01')]	salesmanship.n.01	salesmanship	3	sales
+of clinical skill	25	skills	[Synset('clinical.a.01'), Synset('clinical.s.02')]	clinical.a.01	clinical	3	healthcare
+clinical skill	25	skills	[Synset('clinical.a.01'), Synset('clinical.s.02')]	clinical.a.01	clinical	3	healthcare
+development of clinical skill	25	skills	[Synset('clinical.a.01'), Synset('clinical.s.02')]	clinical.a.01	clinical	3	healthcare
+and numerical skills	25	skills	[Synset('numeric.s.02'), Synset('numeral.a.01'), Synset('numerical.a.03')]	numeric.s.02	numeric	3	analytic and mathematical
+presentational skills	25	skills	[Synset('presentational.a.01')]	presentational.a.01	presentational	3	presentation
+person presentational skills	25	skills	[Synset('presentational.a.01')]	presentational.a.01	presentational	3	presentation
+therapy skills	25	skills	[Synset('therapy.n.01')]	therapy.n.01	therapy	3	healthcare
+physical therapy skills	25	skills	[Synset('therapy.n.01')]	therapy.n.01	therapy	3	healthcare
+your physical therapy skills	25	skills	[Synset('therapy.n.01')]	therapy.n.01	therapy	3	healthcare
+numerical skills	25	skills	[Synset('numeric.s.02'), Synset('numeral.a.01'), Synset('numerical.a.03')]	numeric.s.02	numeric	3	analytic and mathematical
+organizational and numerical skills	25	skills	[Synset('numeric.s.02'), Synset('numeral.a.01'), Synset('numerical.a.03')]	numeric.s.02	numeric	3	analytic and mathematical
+and punctuality skills	25	skills	[Synset('punctuality.n.01')]	punctuality.n.01	punctuality	3	punctual
+attendance and punctuality skills	25	skills	[Synset('punctuality.n.01')]	punctuality.n.01	punctuality	3	punctual
+punctuality skills	25	skills	[Synset('punctuality.n.01')]	punctuality.n.01	punctuality	3	punctual
+accordingly utilizing forecasting skill	25	skills	[Synset('prediction.n.02'), Synset('forecast.v.01'), Synset('calculate.v.02'), Synset('bode.v.01')]	prediction.n.02	prediction	3	analytic and mathematical
+forecasting skill	25	skills	[Synset('prediction.n.02'), Synset('forecast.v.01'), Synset('calculate.v.02'), Synset('bode.v.01')]	prediction.n.02	prediction	3	analytic and mathematical
+utilizing forecasting skill	25	skills	[Synset('prediction.n.02'), Synset('forecast.v.01'), Synset('calculate.v.02'), Synset('bode.v.01')]	prediction.n.02	prediction	3	analytic and mathematical
+investigative skills	25	skills	[Synset('fact-finding.s.01')]	fact-finding.s.01	fact-finding	3	investigative
+and investigative skills	25	skills	[Synset('fact-finding.s.01')]	fact-finding.s.01	fact-finding	3	investigative
+skills and investigative skills	25	skills	[Synset('fact-finding.s.01')]	fact-finding.s.01	fact-finding	3	investigative
+and arithmetic skills	25	skills	[Synset('arithmetic.n.01'), Synset('arithmetical.a.01')]	arithmetic.n.01	arithmetic	3	analytic and mathematical
+writing and arithmetic skills	25	skills	[Synset('arithmetic.n.01'), Synset('arithmetical.a.01')]	arithmetic.n.01	arithmetic	3	analytic and mathematical
+arithmetic skills	25	skills	[Synset('arithmetic.n.01'), Synset('arithmetical.a.01')]	arithmetic.n.01	arithmetic	3	analytic and mathematical
+effective salesmanship skills	25	skills	[Synset('salesmanship.n.01')]	salesmanship.n.01	salesmanship	3	sales
