@@ -60,7 +60,7 @@ For example:
 
 ## Step 4. Matching Skill Tag to Job description 
 
-At this step, for each skill tag we do build a little vectorizer on its feature words, and apply the same vectorizer on the job description and compute the dot product. A value greater than zero of the dot product indicates at least one of the feature words is present in the job description. So we associate this skill tag with the job description. 
+At this step, for each skill tag we build a tiny vectorizer on its feature words, and apply the same vectorizer on the job description and compute the dot product. A value greater than zero of the dot product indicates at least one of the feature words is present in the job description. If so, we associate this skill tag with the job description. 
 
 ## Step 5: Convert the operation in Step 4 to an API call. 
 
